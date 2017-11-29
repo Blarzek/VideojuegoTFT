@@ -1,0 +1,34 @@
+{
+  "rounds": {
+	"1": {
+	  "time": 30,
+	  "punchEnemy": 2,
+	  "gunEnemy": 1,
+	  "heal": false
+	},
+	"2": {
+	  "time": 35,
+	  "punchEnemy": 3,
+	  "gunEnemy": 1,
+	  "heal": true
+	},
+	"3": {
+	  "time": 40,
+	  "punchEnemy": 4,
+	  "gunEnemy": 2,
+	  "heal": false
+	},
+	"4": {
+	  "time": 45,
+	  "punchEnemy": 5,
+	  "gunEnemy": 2,
+	  "heal": true
+	},
+	"5": {
+	  "time": 50,
+	  "punchEnemy": 6,
+	  "gunEnemy": 2,
+	  "heal": true
+	}
+  }
+}

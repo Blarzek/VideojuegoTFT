@@ -1,0 +1,44 @@
+{
+  "scores": {
+    0: {
+      "name": "AAA",
+      "score": 200
+    },
+	1: {
+      "name": "BBB",
+      "score": 100
+    },
+	2: {
+      "name": "CCC",
+      "score": 300
+    },
+	3: {
+      "name": "DDD",
+      "score": 450
+    },
+	4: {
+      "name": "EEE",
+      "score": 500
+    },
+	5: {
+      "name": "FFF",
+      "score": 150
+    },
+	6: {
+      "name": "GGG",
+      "score": 250
+    },
+	7: {
+      "name": "HHH",
+      "score": 550
+    },
+	8: {
+      "name": "III",
+      "score": 350
+    },
+	9: {
+      "name": "JJJ",
+      "score": 600
+    }
+  }
+}
